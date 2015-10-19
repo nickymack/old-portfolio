@@ -1,0 +1,111 @@
+body  {
+    margin:auto;
+    text-align: center;
+    background-image: url("http://i.imgur.com/k03V7Yq.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;}
+
+p {font-family: Arial;
+    font-size: 1em;
+    color:#2a415f;}
+
+header {margin-top: 40px;
+    margin-bottom: 40px;}
+
+#winnerLine {font-family:Arial;
+    font-color:#2a415f;
+    background-color:gold;
+    width: 500px;
+    margin-left: auto;
+    margin-right:auto;
+    border-radius: 5;
+}
+div.wrapper {width:relative;
+    margin:0px auto;}
+
+h1 {text-align:center;
+    font-family: Arial;
+    font-size: 3em;}
+    
+.topBanner {padding: 10px;
+  background: #FCFBE3;
+    opacity: 0.7;}
+    
+section {text-align: center;}
+    
+li {display: inline-block; 
+    margin-left: auto; 
+    margin-right: auto;
+    margin-top:auto;
+    margin-bottom:auto;
+    text-align: center; 
+    padding: 10px 10px 10px 10px;}
+
+.animalPortraits {height: 200px; 
+    width: 200px; 
+    border-radius: 100%;
+    border-style: solid;
+    border-color: #A8A8A8;
+    border-width: 6 px;}
+
+.animalButton {border-radius: 100%}
+
+.levels {display:none;
+    width: 200px;}
+    
+figcaption {font-size: 2em;
+    font-family: Arial;
+    color: #853c41;}
+
+div {background-color: transparent;
+    height: 40px;
+    width:auto;}
+
+article.gallery {background:#d39953;
+        border-style: double;
+        border-color: #853c41;
+        border-width:10px;
+        border-radius: 5%;
+        width: 600px;
+        height: 500px;
+        text-align:center;
+        display: inline-block;
+        margin-bottom: 20px;
+        margin-right: 20px;
+        margin-left: 20px;
+        margin-top: 20px;}
+
+#meetContestants {background: #FCFBE3;
+        margin:auto;
+        float:center;
+        opacity: 0.7;
+        width: 50%;
+        height: auto;
+        border-radius: 40%}
+
+#results {background: #FCFBE3;
+        margin:auto;
+        margin-top: auto;
+        margin-bottom: auto;
+        float:center;
+        opacity: 0.7;
+        width: 50%;
+        height: 120px;
+        padding: 5px, 5px, 5px, 5px;
+        text-align: center;}
+    
+.aboutAnimalPhoto {height: 300px;
+    width: 500px;
+    border-radius: 5%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;}
+
+#resultsButton {height: 40opx; 
+    width:400px;
+    border-bottom-color:#853c41;
+    font-family:Arial;
+    font-size:2em;
+    border-width: 20px;
+    margin-bottom: 200px;
+    button-style: none;}
